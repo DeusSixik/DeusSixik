@@ -30,6 +30,7 @@ I'm a **Java Programmer** specializing in high-performance applications and game
 [![Discord Server](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G6VEaBKcYt)
 
 * **Discord ID:** `8sixik`
+* **Telegram:** `@sixik4`
 
 ## 📊 GitHub Stats
 <div align="center">
