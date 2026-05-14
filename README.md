@@ -31,11 +31,3 @@ I'm a **Java Programmer** specializing in high-performance applications and game
 
 * **Discord ID:** `8sixik`
 * **Telegram:** `@sixik4`
-
-## 📊 GitHub Stats
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeusSixik&theme=tokyonight&show_icons=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeusSixik&theme=tokyonight&layout=compact" />
-  <br/>
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=DeusSixik&theme=tokyonight" />
-</div>
